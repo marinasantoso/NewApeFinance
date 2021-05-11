@@ -1,2 +1,0 @@
-(this["webpackJsonpapefinance-frontend-swap"]=this["webpackJsonpapefinance-frontend-swap"]||[]).push([[8],{1076:function(n,c){},714:function(n,c){},715:function(n,c){},724:function(n,c){},725:function(n,c){},745:function(n,c){},748:function(n,c){},749:function(n,c){},754:function(n,c){},758:function(n,c){}}]);
-//# sourceMappingURL=8.c75593ff.chunk.js.map
